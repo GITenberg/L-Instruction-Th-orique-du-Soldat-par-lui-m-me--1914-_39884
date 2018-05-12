@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '40290'
     url: http://www.gutenberg.org/2009/agents/40290
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39884#L-Instruction-Th-orique-du-Soldat-par-lui-m-me--1914-
 gutenberg_bookshelf: FR Guerres
 gutenberg_issued: '2012-06-02'
 gutenberg_type: Text
