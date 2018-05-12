@@ -1,0 +1,28 @@
+_repo: L-Instruction-Th-orique-du-Soldat-par-lui-m-me--1914-_39884
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chapuis, Félix
+    alias: Chapuis, Felix
+    birthdate: 1853
+    gutenberg_agent_id: '40290'
+    url: http://www.gutenberg.org/2009/agents/40290
+description: ''
+gutenberg_bookshelf: FR Guerres
+gutenberg_issued: '2012-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39884'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France. Armée -- Handbooks, manuals, etc.'
+- !lcc 'U'
+- !lcsh 'France. Armée -- Infantry -- Drill and tactics'
+title: L'Instruction Théorique du Soldat par lui-même (1914)
+url: http://www.gutenberg.org/ebooks/39884
